@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Do-it-App/static/css/main.dde49678.chunk.css",
+    "main.js": "/Do-it-App/static/js/main.1cee4587.chunk.js",
+    "main.js.map": "/Do-it-App/static/js/main.1cee4587.chunk.js.map",
+    "runtime-main.js": "/Do-it-App/static/js/runtime-main.d12a3012.js",
+    "runtime-main.js.map": "/Do-it-App/static/js/runtime-main.d12a3012.js.map",
+    "static/js/2.e52ec912.chunk.js": "/Do-it-App/static/js/2.e52ec912.chunk.js",
+    "static/js/2.e52ec912.chunk.js.map": "/Do-it-App/static/js/2.e52ec912.chunk.js.map",
+    "index.html": "/Do-it-App/index.html",
+    "static/css/main.dde49678.chunk.css.map": "/Do-it-App/static/css/main.dde49678.chunk.css.map",
+    "static/js/2.e52ec912.chunk.js.LICENSE.txt": "/Do-it-App/static/js/2.e52ec912.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d12a3012.js",
+    "static/js/2.e52ec912.chunk.js",
+    "static/css/main.dde49678.chunk.css",
+    "static/js/main.1cee4587.chunk.js"
+  ]
+}
